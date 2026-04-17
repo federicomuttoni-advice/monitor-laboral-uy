@@ -623,9 +623,7 @@ with col_ski:
 
     st.markdown("**🔧 Top 20 Skills / Áreas Más Demandadas**")
     st.dataframe(
-        df_ski.style
-            .background_gradient(cmap="Reds", subset=["Score demanda"])
-            .format({"Score demanda": "{:.2f}"}),
+        df_ski,
         use_container_width=True,
         height=360
     )
