@@ -1,0 +1,8 @@
+anio,total_avisos,variacion_pct,top1_sector,top1_sector_pct,top2_sector,top2_sector_pct,top3_sector,top3_sector_pct,top1_cargo,top2_cargo,top3_cargo,nota
+2019,30197,,Ventas / Gestión Comercial y Marketing,,Administración / Contabilidad y Finanzas,,Tecnologías de la Información,,Vendedor,Auxiliar Administrativo,Auxiliar Contable,Dato histórico referencial
+2020,23720,-21.4,Ventas / Gestión Comercial y Marketing,,Administración / Contabilidad y Finanzas,,Tecnologías de la Información,,Vendedor,Auxiliar Administrativo,Auxiliar Contable,Año pandemia
+2021,45828,93.2,Ventas / Gestión Comercial y Marketing,,Administración / Contabilidad y Finanzas,,Tecnologías de la Información,,Vendedor,Auxiliar Administrativo,Desarrollador,Recuperación post pandemia
+2022,78454,71.2,Ventas / Gestión Comercial y Marketing,,Tecnologías de la Información,,Administración / Contabilidad y Finanzas,,Vendedor,Desarrollador,Auxiliar Administrativo,Récord previo
+2023,65812,-16.1,Ventas / Gestión Comercial y Marketing,,Tecnologías de la Información,,Administración / Contabilidad y Finanzas,,Vendedor,Auxiliar Administrativo,Desarrollador,Ajuste post récord
+2024,74259,12.8,Ventas / Gestión Comercial y Marketing,27.0,Administración / Contabilidad y Finanzas,15.0,Tecnologías de la Información,14.0,Vendedor,Auxiliar Administrativo,Desarrollador,Datos completos informe anual
+2025,85468,15.1,Ventas / Gestión Comercial y Marketing,27.1,Tecnologías de la Información,16.6,Administración / Contabilidad y Finanzas,12.7,Vendedor,Desarrollador de Software,Auxiliar Administrativo,Récord histórico
